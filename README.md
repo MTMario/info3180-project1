@@ -1,5 +1,5 @@
-# flask_starter
-Starter code for a new Flask Application
+# Real Estate Web Dev Application
+A real estate application for INFO3180.
 
 Remember to always create a virtual environment and install the packages in your requirements file
 
